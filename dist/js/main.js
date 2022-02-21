@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("первый файл"),console.log("test"),console.log("test"),console.log("второй файл")})();
